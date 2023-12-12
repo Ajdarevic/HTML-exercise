@@ -1,4 +1,3 @@
-# HTML-exercise
 <!DOCTYPE html>
 <html lang="en">
   <head>
